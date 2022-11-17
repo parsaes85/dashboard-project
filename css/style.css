@@ -1,6 +1,6 @@
 @font-face{
     font-family: yekan;
-    src: url(/fonts/iranyekanwebbold.ttf);
+    src: url(../fonts/iranyekanwebbold.ttf);
 }
 *{
     padding: 0px;
@@ -14,7 +14,7 @@ body{
 }
 .sidebar{
     height: 100vh;
-    background: linear-gradient(rgba(0,0,0,.7), rgba(0,0,0,.9)), url(/images/sidebar-img.jpg);
+    background: linear-gradient(rgba(0,0,0,.7), rgba(0,0,0,.9)), url(../images/sidebar-img.jpg);
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
